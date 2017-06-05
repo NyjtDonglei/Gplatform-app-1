@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://apps.gem-soft.com/app/goa/iphone.ipa111</string>
+					<string>http://192.168.0.168:2018/uploadApp/package/iphonetest.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
